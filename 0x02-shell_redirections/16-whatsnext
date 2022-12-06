@@ -1,2 +1,2 @@
 #!/bin/bash
-hrep -a 3 "root" /etc/passwd
+hrep -A 3 "root" /etc/passwd
